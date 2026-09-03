@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=220&section=header&text=SHIHAB%20BAKRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20 Architect%20%7C%20DevOps%20%7C%20AI&descAlignY=60&descSize=19" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=SHIHAB%20BAKRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20DevOps%20%7C%20ML%2FAI&descAlignY=60&descSize=19" />
 
 ### 🚀 Software Engineer focused on building scalable, secure, and production-ready distributed systems.
 
@@ -43,22 +43,6 @@ I also integrate **Machine Learning & Generative AI** (LLMs, Computer Vision, NL
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Mid-Level Laravel Developer
-**7P Software & Marketing Company** · *May 2026 – Present*
-
-* Architect enterprise Laravel applications and Learning Management Systems (LMS) with scalable, maintainable domain boundaries.
-* Eliminate system bottlenecks by optimizing **MySQL indexing**, refactoring N+1 queries, and implementing **Redis caching**.
-* Utilize asynchronous event-driven queues (**Laravel Jobs & Workers**) for heavy background task execution.
-* Enforce **SOLID principles** and Clean Architecture while maintaining secure REST APIs with strict RBAC mechanisms.
-
-### 🏢 Backend Software Engineer
-**MNM Global Business Solutions** · *Remote (2023 – 2025)*
-
-* Built and managed distributed **NestJS** and **Laravel** microservices with asynchronous **RabbitMQ** messaging.
-* Automated build and deployment operations using **Docker**, **Kubernetes**, and **GitHub Actions CI/CD pipelines**.
-* Engineered secure, token-based authentication services (JWT, OAuth2) and scalable relational/NoSQL schemas.
 
 ---
 
