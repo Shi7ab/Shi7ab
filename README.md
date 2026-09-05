@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=SHIHAB%20BAKRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20DevOps%20%7C%20ML%2FAI&descAlignY=60&descSize=19" />
 
-### 🚀 Software Engineer focused on building scalable, secure, and production-ready distributed systems.
+### 👨‍💼 Software Engineer focused on building scalable, secure, and production-ready distributed systems.
 
 <p>
   <a href="https://github.com/Shi7ab">
